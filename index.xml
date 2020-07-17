@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<movies>
+	<movie>
+		<title>Hot Rod</title>
+		<year>2007</year>
+		<genre>Comedy</genre>
+        <stars> Andy Samberg, Isla Fisher, Ian McShane,Jorma Taccone,Bill Hader,Bill Hader</stars>
+		<director>Akiva Schaffer</director>
+		<writer> Pam Brady</writer>
+	</movie>
+	<movie>
+		<title>Nacho Libre</uperbatitle>
+		<year>2006</year>
+		<genre>Comedy</genre>
+        <stars> Jack Black, Ana de la Reguera, Héctor Jiménez</stars>
+		<director>Jared Hess</director>
+		<writer> Jared Hess, Jerusha Hess</writer>
+	</movie>
+	<movie>
+		<title>The Pursuit of Happyness</title>
+		<year>2006</year>
+		<genre>Drama</genre>
+        <stars> Will Smith, Thandie Newton, Jaden Smith </stars>
+		<director> Gabriele Muccino</director>
+		<writer>Steve Conrad</writer>
+	</movie>
+	<movie>
+		<title>Happy Gilmore</title>
+		<year>1996</year>
+		<genre>Comedy</genre>
+        <stars> Adam Sandler, Christopher McDonald, Julie Bowen</stars>
+		<director> Dennis Dugan</director>
+		<writer>Tim Herlihy, Adam Sandler</writer>
+	</movie>
+	<movie>
+		<title>Hacksaw Ridge</title>
+		<year>2016</year>
+		<genre>Drama, History</genre>
+        <stars> Andrew Garfield, Sam Worthington, Luke Bracey</stars>
+		<director> Mel Gibson</director>
+		<writer>Robert Schenkkan, Andrew Knight</writer>
+	</movie>
+</movies>
